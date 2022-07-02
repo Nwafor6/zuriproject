@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'links',
     'rest_framework',
-    'blog'
+
 ]
 
 REST_FRAMEWORK = {
