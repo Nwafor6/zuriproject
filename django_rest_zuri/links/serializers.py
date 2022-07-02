@@ -7,7 +7,7 @@ from .models import Link
 # 		model=Post
 # 		fields="__all__"
 
-class LinkSetrilizer(serializers.ModelSerializer):
+class LinkSerializer(serializers.ModelSerializer):
 	class Meta:
 		model=Link
-		fields"__all__"
+		fields="__all__"
